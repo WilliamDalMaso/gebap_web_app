@@ -1,0 +1,14 @@
+{
+    "name": "gebab-web-app",
+    "version": "1.0.0",
+    "description": "A simple onboarding checklist web app.",
+    "main": "index.js",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "author": "William",
+    "license": "ISC",
+    "devDependencies": {
+      "lite-server": "^2.6.1"
+    }
+  }
